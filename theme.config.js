@@ -16,8 +16,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="EVO design team Documentation" />
-      <meta name="og:description" content="EVO design team Documentation" />
+      <meta name="description" content="Mindset, Foundation, Principles, Blog, Resource" />
+      <meta name="og:description" content="Mindset, Foundation, Principles, Blog, Resource" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://raw.githubusercontent.com/Hakimei/ds-ts/main/public/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
