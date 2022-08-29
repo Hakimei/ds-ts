@@ -22,9 +22,9 @@ export default {
       <meta name="twitter:image" content="https://raw.githubusercontent.com/Hakimei/ds-ts/main/public/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="EVO design team Documentation" />
+      <meta name="og:title" content="Mindset, Foundation, Principles, Blog, Resource" />
       <meta name="og:image" content="https://raw.githubusercontent.com/Hakimei/ds-ts/main/public/og.png" />
-      <meta name="apple-mobile-web-app-title" content="EVO Design" />
+      <meta name="apple-mobile-web-app-title" content="Mindset, Foundation, Principles, Blog, Resource" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
