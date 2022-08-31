@@ -11,4 +11,3 @@ Site hiện giờ vẫn còn so khai, nên chỉ tập trung vào 2 mục chính
 - Mở rộng network trong ngành
 - Tăng khả năng thu nhập
 - Định hình về career path cho bản thân.
-
