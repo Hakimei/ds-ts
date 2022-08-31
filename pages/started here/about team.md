@@ -1,3 +1,3 @@
-# About EVOTS
+# About team
 
 _Coming Soon_

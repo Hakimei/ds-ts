@@ -61,5 +61,5 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: false,
-  unstable_faviconGlyph: '📗',
+  unstable_faviconGlyph: '',
 }
