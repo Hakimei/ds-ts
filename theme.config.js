@@ -1,12 +1,12 @@
 export default {
   github: 'https://github.com/shuding/nextra',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – EVOTS',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">EVO</span>
+      <span className="mr-2 font-extrabold hidden md:inline">EVOTS</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Design System Documentation Site
+        Design Documentation Site
       </span>
     </>
   ),
@@ -16,15 +16,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Mindset, Foundation, Principles, Blog, Resource" />
-      <meta name="og:description" content="Mindset, Foundation, Principles, Blog, Resource" />
+      <meta name="description" content="EVOTS - Mindset, Foundation, Principles, Blog, Resource" />
+      <meta name="og:description" content="EVOTS - Mindset, Foundation, Principles, Blog, Resource" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://raw.githubusercontent.com/Hakimei/ds-ts/main/public/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Mindset, Foundation, Principles, Blog, Resource" />
+      <meta name="og:title" content="EVOTS - Mindset, Foundation, Principles, Blog, Resource" />
       <meta name="og:image" content="https://raw.githubusercontent.com/Hakimei/ds-ts/main/public/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Mindset, Foundation, Principles, Blog, Resource" />
+      <meta name="apple-mobile-web-app-title" content="EVOTS - Mindset, Foundation, Principles, Blog, Resource" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
