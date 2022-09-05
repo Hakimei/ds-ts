@@ -12,7 +12,6 @@ Get typeface - [Download zip](https://drive.google.com/file/d/1Q8nQand6Bgng0-zVX
 
 Evo Logo - [Download](https://drive.google.com/file/d/1Vx8KZ-x0p05rdu-j5f11CM06pYWDRtuM/view?usp=sharing)
 
-
 ## Favicons
 
 ![](../../public/assets/previewfavicon.png)
