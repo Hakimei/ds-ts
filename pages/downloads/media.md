@@ -8,7 +8,7 @@ Get typeface - [Download zip](https://drive.google.com/file/d/1Q8nQand6Bgng0-zVX
 
 ---
 
-## Logo
+## Logos
 
 ![](../../public/assets/previewlogo.png)
 
