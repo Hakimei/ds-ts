@@ -25,7 +25,8 @@ Get Favicon - [Download package](https://drive.google.com/file/d/1NOPkaKmEjGzNP8
 Extract the package in your project. For example, in `[your project]/public/assets/images`.
 
 Paste the code in your pages:
-```
+
+```markdown
 <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
 <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 ```
