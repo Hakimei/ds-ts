@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "bc640b317ce3c601",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f13844439aea8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e6e7f0879d5372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/downloads/media.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a7eb4da2361443",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4819aa01be560ef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c511d5dddfbf7a73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d9ccf939169ba5fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ee68d223c51c0c00",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a950349736334c36",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "67e163fccdda2ef0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pages/downloads/media.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cb526f54931c8fbc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "pages/downloads/media.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0a4ebd890d9ec0cf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "pages/downloads/media.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "03e6e7f0879d5372",
+  "lastOpenFiles": [
+    "pages/downloads/template.md"
+  ]
+}
