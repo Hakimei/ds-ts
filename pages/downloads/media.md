@@ -8,7 +8,7 @@ Get typeface - [Download zip](https://drive.google.com/file/d/1Q8nQand6Bgng0-zVX
 
 ---
 
-## Logos
+## GOEVO Logos
 
 ![](../../public/assets/previewlogo.png)
 
@@ -16,7 +16,7 @@ Evo Logo - [Download](https://drive.google.com/file/d/1Vx8KZ-x0p05rdu-j5f11CM06p
 
 ---
 
-## Favicons
+## GOEVO Favicons
 
 Get Favicon - [Download package](https://drive.google.com/file/d/1NOPkaKmEjGzNP8CciPUK_vAgoqe82stm/view?usp=share_link)
 
@@ -42,12 +42,12 @@ Next, copy the following link tags and paste them into the head of your HTML.
 
 # WINEVO Assets
 
-## Logos
+## WINEVO Logos
 
-![](/public/assets/logowinevo.png)
+![](../../public/assets/logowinevo.png)
 Winevo Logo - [Download](https://drive.google.com/file/d/19cCOn9LyRxFonxWOQg4s3Jr4BQZgyIaZ/view?usp=sharing)
 
-## Favicon
+## WINEVO Favicon
 
 Get Favicon - [Download package](https://drive.google.com/file/d/1N8XLCQiTvcRi6L5HcCsd0WhOvAUH3yp4/view?usp=share_link)
 
